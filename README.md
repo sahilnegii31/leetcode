@@ -34,4 +34,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

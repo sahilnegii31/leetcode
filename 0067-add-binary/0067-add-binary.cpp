@@ -3,10 +3,10 @@ public:
     string addBinary(string a, string b) {
         stack<char> s;
         string str1="";
-       int i=a.size()-1;
+       
        int carry = 0;
-       int j = b.size()-1;
-       for(i,j;i>=0 || j>=0 ||carry ;i--,j--){
+       
+       for(int i=a.size()-1,j = b.size()-1;i>=0 || j>=0 ||carry ;i--,j--){
         int bit1 = 0;
         int bit2 = 0;
         if(i>=0) bit1=a[i] - '0';

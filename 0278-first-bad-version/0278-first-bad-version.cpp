@@ -8,7 +8,7 @@ public:
         l = 1 ; 
         r = n;
         if(isBadVersion(1)) return 1;
-        for(int i=0;i<n;i++){
+        for(int i=0;l<=r;i++){
             int mid = l + (r-l)/2;
             if(!isBadVersion(mid)){
                 l = mid+1;

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sahilnegii31/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sahilnegii31/leetcode/tree/master/0035-search-insert-position) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 ## Math
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sahilnegii31/leetcode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sahilnegii31/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

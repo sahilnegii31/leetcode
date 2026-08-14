@@ -9,8 +9,7 @@ public:
             if(ans < w * (min(height[lf] , height[rt]))){
                 ans = w * min(height[lf] , height[rt]);
             } 
-            if(height[lf] < height[rt] ) lf++;
-            else(rt--);
+            height[rt] < height[lf] ? rt-- : lf++;
         }
         return ans;
     }

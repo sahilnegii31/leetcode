@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahilnegii31/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahilnegii31/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/sahilnegii31/leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilnegii31/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahilnegii31/leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sahilnegii31/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilnegii31/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sahilnegii31/leetcode/tree/master/0414-third-maximum-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sahilnegii31/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/sahilnegii31/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilnegii31/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/sahilnegii31/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilnegii31/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
@@ -286,4 +290,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sahilnegii31/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

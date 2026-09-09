@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahilnegii31/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+| [3870-count-commas-in-range](https://github.com/sahilnegii31/leetcode/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |

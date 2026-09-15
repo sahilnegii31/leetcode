@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilnegii31/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sahilnegii31/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilnegii31/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
+| [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahilnegii31/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sahilnegii31/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilnegii31/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sahilnegii31/leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |

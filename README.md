@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sahilnegii31/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahilnegii31/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/sahilnegii31/leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sahilnegii31/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilnegii31/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/sahilnegii31/leetcode/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/sahilnegii31/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sahilnegii31/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |

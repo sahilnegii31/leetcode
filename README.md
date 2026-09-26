@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/sahilnegii31/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/sahilnegii31/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sahilnegii31/leetcode/tree/master/0896-monotonic-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilnegii31/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sahilnegii31/leetcode/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/sahilnegii31/leetcode/tree/master/0605-can-place-flowers) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |

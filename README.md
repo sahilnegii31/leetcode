@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sahilnegii31/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahilnegii31/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahilnegii31/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilnegii31/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilnegii31/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilnegii31/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilnegii31/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |

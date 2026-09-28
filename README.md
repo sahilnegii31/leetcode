@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sahilnegii31/leetcode/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahilnegii31/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahilnegii31/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilnegii31/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahilnegii31/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sahilnegii31/leetcode/tree/master/0896-monotonic-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilnegii31/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilnegii31/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahilnegii31/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |

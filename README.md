@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilnegii31/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sahilnegii31/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sahilnegii31/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sahilnegii31/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahilnegii31/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sahilnegii31/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sahilnegii31/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sahilnegii31/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sahilnegii31/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sahilnegii31/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -419,5 +421,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sahilnegii31/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/sahilnegii31/leetcode/tree/master/0896-monotonic-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilnegii31/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sahilnegii31/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sahilnegii31/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Newton's Method
 |  |

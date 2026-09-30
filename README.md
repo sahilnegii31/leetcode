@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilnegii31/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sahilnegii31/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahilnegii31/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/sahilnegii31/leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilnegii31/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/sahilnegii31/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahilnegii31/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahilnegii31/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilnegii31/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahilnegii31/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/sahilnegii31/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sahilnegii31/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sahilnegii31/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sahilnegii31/leetcode/tree/master/0066-plus-one) |

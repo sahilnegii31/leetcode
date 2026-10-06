@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahilnegii31/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sahilnegii31/leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/sahilnegii31/leetcode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilnegii31/leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/sahilnegii31/leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/sahilnegii31/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/sahilnegii31/leetcode/tree/master/0896-monotonic-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahilnegii31/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sahilnegii31/leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/sahilnegii31/leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sahilnegii31/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/sahilnegii31/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Newton's Method
@@ -433,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilnegii31/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

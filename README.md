@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0707-design-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/sahilnegii31/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sahilnegii31/leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/sahilnegii31/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilnegii31/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0707-design-linked-list) |
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |

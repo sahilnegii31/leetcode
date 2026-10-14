@@ -10,18 +10,22 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        stack<int> s;
-        ListNode* temp = head;
-        while(temp != NULL){
-            s.push(temp->val);
-            temp = temp->next;
+     bool isPalindrome(ListNode* head) {
+        vector<int> nums;
+        ListNode* curr = head;
+        while (curr != nullptr) { 
+            nums.push_back(curr->val);
+            curr = curr->next;
         }
-        temp = head;
-        while(temp != NULL){
-            if(temp->val != s.top()) return false;
-            temp = temp->next;
-            s.pop();
+        int left = 0;
+        int right = nums.size() - 1;
+        
+        while (left < right) {
+            if (nums[left] != nums[right]) {
+                return false;
+            }
+            left++;
+            right--;
         }
         return true;
     }

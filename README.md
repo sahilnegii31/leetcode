@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilnegii31/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2396-strictly-palindromic-number](https://github.com/sahilnegii31/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/sahilnegii31/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/sahilnegii31/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sahilnegii31/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sahilnegii31/leetcode/tree/master/0054-spiral-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sahilnegii31/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

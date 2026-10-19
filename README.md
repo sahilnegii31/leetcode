@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sahilnegii31/leetcode/tree/master/0771-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/sahilnegii31/leetcode/tree/master/0817-linked-list-components) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahilnegii31/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/sahilnegii31/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/sahilnegii31/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/sahilnegii31/leetcode/tree/master/0817-linked-list-components) |
 | [1670-design-front-middle-back-queue](https://github.com/sahilnegii31/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilnegii31/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/sahilnegii31/leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/sahilnegii31/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sahilnegii31/leetcode/tree/master/0735-asteroid-collision) |
+| [0817-linked-list-components](https://github.com/sahilnegii31/leetcode/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/sahilnegii31/leetcode/tree/master/0896-monotonic-array) |

@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sahilnegii31/leetcode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sahilnegii31/leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sahilnegii31/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilnegii31/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sahilnegii31/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sahilnegii31/leetcode/tree/master/0229-majority-element-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahilnegii31/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/sahilnegii31/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sahilnegii31/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sahilnegii31/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
@@ -555,4 +557,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahilnegii31/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

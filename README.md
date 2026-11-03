@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sahilnegii31/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilnegii31/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/sahilnegii31/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/sahilnegii31/leetcode/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/sahilnegii31/leetcode/tree/master/0665-non-decreasing-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sahilnegii31/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sahilnegii31/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahilnegii31/leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilnegii31/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/sahilnegii31/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sahilnegii31/leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahilnegii31/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sahilnegii31/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sahilnegii31/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilnegii31/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0881-boats-to-save-people](https://github.com/sahilnegii31/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilnegii31/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilnegii31/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
